@@ -5,5 +5,6 @@ module.exports= function()
     forecast ........... show 5-day weather forecast
     version ............ show package version
     help ............... show help menu for a command
+    NO OTHER ALLOWED COMMANDS:)
     `)
 }
