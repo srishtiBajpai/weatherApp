@@ -8,3 +8,4 @@ module.exports= function()
     NO OTHER ALLOWED COMMANDS:)
     `)
 }
+// help function will be called if  a) no cmd is passed or b) help cmd is passed
